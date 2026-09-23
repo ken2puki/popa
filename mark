@@ -1,5 +1,5 @@
 -- ========== НАСТРОЙКИ ==========
-local TEXT       = "АРТЕМКА СОСУНЕЦ)))"       -- что вывести
+local TEXT       = "ARTEMKA SOSUNEC"       -- что вывести
 local DURATION   = 500                        -- сколько секунд мигать
 local FLASH_RATE = 0.08                     -- частота мигания (чем меньше — тем быстрее)
 local TEXT_COLOR = Color3.fromRGB(255, 0, 0) -- цвет текста
